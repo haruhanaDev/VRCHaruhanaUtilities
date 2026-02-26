@@ -5,9 +5,7 @@
   "description": "Describe this Package",
   "dependencies": {},
   "gitDependencies": {},
-  "vpmDependencies": {
-    "com.vrchat.worlds": "3.10.1"
-  },
+  "vpmDependencies": {},
   "author": {
     "name": "haruhana",
     "email": "bfx.sjmx@gmail.com",
