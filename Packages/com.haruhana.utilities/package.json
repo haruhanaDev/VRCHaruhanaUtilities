@@ -1,15 +1,17 @@
 {
   "name": "com.haruhana.utilities",
   "displayName": "com.haruhana.utilities",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Describe this Package",
   "dependencies": {},
   "gitDependencies": {},
-  "vpmDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.10.1"
+  },
   "author": {
     "name": "haruhana",
     "email": "bfx.sjmx@gmail.com",
-    "url": ""
+    "url": "https://haruhanadev.github.io/index.json"
   },
   "legacyFolders": {},
   "legacyFiles": {},

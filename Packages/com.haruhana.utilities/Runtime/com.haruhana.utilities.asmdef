@@ -1,6 +1,9 @@
 {
   "name": "com.haruhana.utilities",
-  "references": [],
+  "references": [
+    "VRC.SDK3",
+    "VRC.SDKBase"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
