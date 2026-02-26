@@ -1,0 +1,14 @@
+{
+  "name": "com.haruhana.utilities.Editor",
+  "references": [
+    "com.haruhana.utilities"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

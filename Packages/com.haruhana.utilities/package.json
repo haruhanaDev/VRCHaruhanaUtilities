@@ -1,0 +1,17 @@
+{
+  "name": "com.haruhana.utilities",
+  "displayName": "com.haruhana.utilities",
+  "version": "1.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "haruhana",
+    "email": "bfx.sjmx@gmail.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Projects\\Unity\\VRCHaruhanaUtilities\\Packages\\com.haruhana.utilities"
+}
